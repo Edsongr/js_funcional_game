@@ -4,7 +4,7 @@
 > Um jogo simples usado para treinar a construção de código em JS com OOP Funcional. 
 > Usado: HTML, CSS, JS 
 
-## OOP 
+## OOP - Funcional
 > Embora o JS não é uma linguagem Orientada a Objeto, ela suporte esse tipo de programação. Projeto feito para teste. 
 
 
